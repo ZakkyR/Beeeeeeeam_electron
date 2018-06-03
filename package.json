@@ -1,0 +1,27 @@
+{
+  "name": "be7am_electron",
+  "version": "0.1.0",
+  "description": "Let's tweet as soon as possible",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "electron-packager": "^12.1.0",
+    "twitter": "^1.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZakkyR/Beeeeeeeam_electron.git"
+  },
+  "keywords": [
+    "Twitter"
+  ],
+  "author": "ZakkyR (@ZakkyR)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZakkyR/Beeeeeeeam_electron/issues"
+  },
+  "homepage": "https://github.com/ZakkyR/Beeeeeeeam_electron#readme"
+}
